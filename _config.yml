@@ -3,14 +3,14 @@ title: Yiran Hu
 subtitle: Personal Webpage
 email: yrhu@math.utexas.edu
 description:I am now a 5-th year Ph.D. Student at Mathematics department at the University of Texas at Austin. My advisor is Alexis Vasseur.
-url: 
+url: https://yiran-hu.github.io/
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 2515 Speedway PMA 8.100
+city: Austin
+state: TX
+zip_code: 78712
 country: United States of America
-phone: (716) 555-5555
+phone: (512)-202-0752
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
