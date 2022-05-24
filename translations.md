@@ -16,8 +16,9 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">French Paper</h2>
+<p>Here is a translation of French paper <a href="[url](https://github.com/Yiran-Hu/Translation/blob/master/%5BEN%5DPERSISTENCE%20OF%20GEOMETRIC%20STRUCTURES%20IN%20TWO-DIMENSIONAL%20INCOMPRESSIBLE%20FLUIDS.pdf)">PERSISTENCE OF GEOMETRIC STRUCTURES IN TWO-DIMENSIONAL INCOMPRESSIBLE FLUIDS </a>.</p>
+<!-- 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -27,7 +28,9 @@ nav-menu: true
 		<h3>Magna odio tempus commodo</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 	</div>
+-->
 	<!-- Break -->
+<!--		
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -43,13 +46,15 @@ nav-menu: true
 </div>
 
 <hr class="major" />
-
+-->
 <!-- Elements -->
+<!--
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-
+-->
 <!-- Text stuff -->
+<!--
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -61,8 +66,9 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Heading Level 4</h4>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
+-->
 <!-- Lists -->
+		<!--
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -163,12 +169,14 @@ Finally, this is a <a href="#">link</a>.</p>
 		</ul>
 	</div>
 </div>
-
+-->
 <!-- Blockquote -->
+		<!--
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
+-->
 <!-- Table -->
+<!--
 <h3>Table</h3>
 
 <h4>Default</h4>
@@ -265,8 +273,9 @@ Finally, this is a <a href="#">link</a>.</p>
 
 </div>
 <div class="6u$ 12u$(medium)">
-
+-->
 <!-- Buttons -->
+		<!--
 <h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
@@ -298,8 +307,9 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><span class="button special disabled">Special</span></li>
 	<li><span class="button disabled">Default</span></li>
 </ul>
-
+-->
 <!-- Form -->
+<!--
 <h3>Form</h3>
 
 <form method="post" action="#">
@@ -310,7 +320,9 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
 		</div>
+-->
 		<!-- Break -->
+		<!--
 		<div class="12u$">
 			<div class="select-wrapper">
 				<select name="demo-category" id="demo-category">
@@ -322,7 +334,9 @@ Finally, this is a <a href="#">link</a>.</p>
 				</select>
 			</div>
 		</div>
+-->
 		<!-- Break -->
+		<!--
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
@@ -335,7 +349,9 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
 		</div>
+-->
 		<!-- Break -->
+		<!--
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
@@ -344,11 +360,15 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
 		</div>
+-->
 		<!-- Break -->
+		<!--
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
+-->
 		<!-- Break -->
+		<!--
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Send Message" class="special" /></li>
@@ -357,8 +377,9 @@ Finally, this is a <a href="#">link</a>.</p>
 		</div>
 	</div>
 </form>
-
+-->
 <!-- Image -->
+		
 <h3>Image</h3>
 
 <h4>Fit</h4>
@@ -401,7 +422,7 @@ while (!deck.isInOrder()) {
 
 print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
-
+-->
 </div>
 </div>
 
