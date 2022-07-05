@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Yiran Hu.'
 description: null
-image: assets/images/McNey.jpg
+image: null
 author: null
 show_tile: false
 ---
