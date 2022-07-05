@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Translation
-image: assets/images/pic01.jpg
+image: assets/images/Ocean.jpg
 nav-menu: true
 ---
 
