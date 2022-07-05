@@ -381,8 +381,6 @@ Finally, this is a <a href="#">link</a>.</p>
 <!-- Image -->
 		
 
-</div>
-</div>
 
 </div>
 </section>
