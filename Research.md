@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Research Interest</h2>
-<pMy research lies in Numerical and Analysis PDE. I am now interested in 3D Quasi-Geostrophic System and Surface Quasi-Geostrophic Equation.</p>
+<p>My research lies in Numerical and Analysis PDE. I am now interested in 3D Quasi-Geostrophic System and Surface Quasi-Geostrophic Equation.</p>
 		
 
 
