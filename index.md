@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am interested in partial differential equations analysis and numerical computation. Now I am currently focusing on 3D Quasi-geostrophic equations. Here is my [CV](CV.pdf).
+I am interested in Numerics and Analysis of partial differential equations. I am currently focusing on the 3D Quasi-geostrophic system. Here is my [CV](CV.pdf).
