@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">French Paper</h2>
-<p>Here is a translation of French paper <a href="https://github.com/Yiran-Hu/Translation/blob/master/%5BEN%5DPERSISTENCE%20OF%20GEOMETRIC%20STRUCTURES%20IN%20TWO-DIMENSIONAL%20INCOMPRESSIBLE%20FLUIDS.pdf">PERSISTENCE OF GEOMETRIC STRUCTURES IN TWO-DIMENSIONAL INCOMPRESSIBLE FLUIDS </a>.</p>
+<p>Here is a translation of a French paper <a href="https://github.com/Yiran-Hu/Translation/blob/master/%5BEN%5DPERSISTENCE%20OF%20GEOMETRIC%20STRUCTURES%20IN%20TWO-DIMENSIONAL%20INCOMPRESSIBLE%20FLUIDS.pdf">PERSISTENCE OF GEOMETRIC STRUCTURES IN TWO-DIMENSIONAL INCOMPRESSIBLE FLUIDS </a>.</p>
 <!-- 
 <div class="row">
 	<div class="6u 12u$(small)">
