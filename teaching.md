@@ -21,7 +21,7 @@ nav-menu: true
 <h2 id="content">Teaching Assistant</h2>
 <p>Teaching Assistant for undergraduate and graduate courses including 'M408C (Calculus 1), M408D (Calculus 2), M427J (Differential Equation and Linear Algebra), M381D (Graduate Complex Analysis), M387C (Graduate Numerical Analysis 1), M328K (Introduction to Number Theory), M383C(Graduate Methods of Applied Mathematics 1)'.</p>
     
-<h2 id="content">Dirct Reading Program(DRP)</h2>
+<h2 id="content">Direct Reading Program(DRP)</h2>
 <p>Mentor for DRP on topics including 'Support Vector Machine, Stochastic Calculus for Finance and Discrete Fourier and Wavelet Transforms, Quantum Mechanics, Numerical Partial Differential Equations'.</p> 
 
 </div>
