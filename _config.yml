@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yiran Hu"
+  avatar           : "images/icon.jpg"
+  bio              : "Ph.D. Candidate in Math"
+  location         : "2515 Speedway PMA 8.100, Austin, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=q3Hw9VEAAAAJ&gmla=AP6z3OYfvgiqN3p4b9o0QGg6FtE0sIq8KSp4nMhIEd8XjkAQxWJH3TwcH9BdyD1-EAOLymjCz9hn00bViCfdoNmUydaiJ_GqqzUl3ivJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
