@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Graduate course"
 permalink: 
 venue: "University of Texas at Austin, Math Department"
-date: 
+date: 2018-08-23
 location: "Austin, USA"
 ---
 
