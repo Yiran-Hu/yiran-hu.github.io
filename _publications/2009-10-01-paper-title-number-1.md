@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Global in Time Weak Solutions to Singular 3D Quasi-Geostrophic Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+permalink: 
+excerpt: 'Geophysicists have studied 3D Quasi-Geostrophic systems extensively. These systems describe tratified flows in the atmosphere on a large time scale and are widely used for forecasting atmospheric circulation. They couple an inviscid transport equation in R+×Ω with an equation on the boundary satisfied by the trace, where Ω is either 2D torus or a bounded convex domain in R2. In this paper, we show the existence of global in time weak solutions to a family of singular 3D quasi-geostrophic systems with Ekman pumping, where the background density profile degenerates at the boundary. The proof is based on the construction of approximated models which combine the Galerkin method at the boundary and regularization processes in the bulk of the domain. The main difficulty is handling the degeneration of the background density profile at the boundary.
+Subjects:	Analysis of PDEs (math.AP)
+MSC classes:	35Q35, 76D03
+Cite as:	arXiv:2302.05973 [math.AP]
+ 	(or arXiv:2302.05973v1 [math.AP] for this version)
+ 
+https://doi.org/10.48550/arXiv.2302.05973
+Focus to learn more
+'
+date: 2023-02-12
+venue: 
+paperurl: 'https://arxiv.org/abs/2302.05973'
+citation: 'Hu, Yiran. "Global in Time Weak Solutions to Singular 3D Quasi-Geostrophic Systems." arXiv preprint arXiv:2302.05973 (2023).'
