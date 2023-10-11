@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yiran Hu.I am now a 6-th year Ph.D. candidate at the University of Texas at Austin. I am interested in Numerics and Analysis of partial differential equations. I am currently focusing on the 3D Quasi-geostrophic system. I am now working with Prof. [Alexis Vasseur](https://web.ma.utexas.edu/users/vasseur/). Here is my [CV](files/CV.pdf). Before I came here, I graduated from Nanjing University.
+Hi, I am Yiran Hu, a sixth-year Ph.D. candidate at the University of Texas at Austin. My research is rooted in Theoretical and Numerical Analysis of Partial Differential Equations. Specifically, I have developed an interest in the 3D Quasi-geostrophic system and the Surface Quasi-Geostrophic Equation. I work under the mentorship of Professor [Alexis Vasseur](https://web.ma.utexas.edu/users/vasseur/). For a comprehensive overview of my academic journey, please see my [curriculum vitae](files/CV.pdf). Before I came here, I graduated from Nanjing University.
 
 Research Interests
 ======
-My research interest lies in Theoretical and Numerical Analysis of Partial Differential Equations. I am now interested in the 3D Quasi-Geostrophic System and Surface Quasi-Geostrophic Equation.  I have strong interests in problems that involcing physical background. Also I am interested in elliptic theories involving spectrum analysis. I am now focusing on a singular(or degenerated) family of 3D Quasi-Geostrophic System and Surface Quasi-Geostrophic Equation. For conferences and publications see my [CV](files/CV.pdf). 
+I investigate the intricate discipline of Partial Differential Equations, both in theory and numerical analysis. Currently, my primary research is concentrated on the 3D Quasi-Geostrophic System and Surface Quasi-Geostrophic Equation, with problems with strong physical emphases. Additionally, I’m interested in elliptic theories, particularly those involving spectrum analysis. Presently, I explore a singular or degenerated family of the 3D Quasi-Geostrophic System and the Surface Quasi-Geostrophic Equation. For details of my contributions to academic conferences and publications, please see my [curriculum vitae](files/CV.pdf). 
 
-I also have interests in programming and time series analysis. I was a summer intern at World Quant LLC in summer 2023 and have done projects related to auto-encoder, optimization method, C++ programming and finance.
+In addition to my scholarly pursuits, I’m an enthusiastic learner of programming. My dedication to academic rigor and the pursuit of knowledge extends to my practical experience, as I completed a meaningful internship at World Quant LLC during the summer of 2023. I engaged in financial research projects that encompassed auto-encoder, time series analysis, optimization methodologies, data analysis and C++ programming.
 
