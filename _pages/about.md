@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yiran Hu, a sixth-year Ph.D. candidate at the University of Texas at Austin. My research is rooted in Theoretical and Numerical Analysis of Partial Differential Equations. Specifically, I have developed an interest in the 3D Quasi-geostrophic system and the Surface Quasi-Geostrophic Equation. I work under the mentorship of Professor [Alexis Vasseur](https://web.ma.utexas.edu/users/vasseur/). For a comprehensive overview of my academic journey, please see my [curriculum vitae](files/CV.pdf). Before I came here, I graduated from Nanjing University.
+Hi, I am Yiran Hu, a Quantitative Research Analyst at Qube Research & Technology in Hong Kong. My old email address is no longer accessible. Please [email me](mailto:yr.fuhk@gmail.com) or find me on LinkedIn if you want to reach out.
+
+I earned my Ph.D. in Mathematics from the University of Texas at Austin. During my Ph.D., my research was rooted in the theoretical and numerical analysis of partial differential equations. Specifically, I developed an interest in the 3D quasi-geostrophic system and the surface quasi-geostrophic equation. I worked under the mentorship of Professor [Alexis Vasseur](https://web.ma.utexas.edu/users/vasseur/). For a comprehensive overview of my academic journey, please see my [curriculum vitae](files/CV.pdf). Before pursuing my Ph.D., I graduated from Nanjing University.
+
 
 Research Interests
 ======
